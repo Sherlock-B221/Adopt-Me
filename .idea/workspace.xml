@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="079f040a-9d4a-49b3-8982-19137ebc675f" name="Default Changelist" comment="" />
+    <list default="true" id="079f040a-9d4a-49b3-8982-19137ebc675f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eslintrc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1nHWS1oEgjanJ79xwVnAWoNkIk8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -16,6 +25,10 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\mohan\OneDrive\Desktop\Adopt-Me\node_modules\prettier" />
+    <property name="run.prettier.on.save" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -26,7 +39,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611047492836</updated>
-      <workItem from="1611047494265" duration="3737000" />
+      <workItem from="1611047494265" duration="6386000" />
     </task>
     <servers />
   </component>
@@ -34,9 +47,21 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1611050672856">
+    <state x="624" y="304" width="427" height="255" key="Github.ShareDialog" timestamp="1611053928736">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1536.864/1920.0.1024.768@0.0.1536.864" timestamp="1611050672856" />
+    <state x="624" y="304" width="427" height="255" key="Github.ShareDialog/0.0.1536.864/1920.0.1024.768@0.0.1536.864" timestamp="1611053928736" />
+    <state x="543" y="69" key="Github.UntrackedFilesDialog" timestamp="1611053972309">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="543" y="69" key="Github.UntrackedFilesDialog/0.0.1536.864/1920.0.1024.768@0.0.1536.864" timestamp="1611053972309" />
+    <state x="160" y="0" key="SettingsEditor" timestamp="1611059454027">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="160" y="0" key="SettingsEditor/0.0.1536.864/1920.0.1024.768@0.0.1536.864" timestamp="1611059454027" />
+    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1611059235928">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1536.864/1920.0.1024.768@0.0.1536.864" timestamp="1611059235928" />
   </component>
 </project>
