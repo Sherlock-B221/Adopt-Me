@@ -1,6 +1,6 @@
 import React from "react";
-import Pet from "./Pet";
-
+import ReactDOM from "react-dom";
+import SearchParams from "./SearchParams";
 // const App = () => {
 //   return React.createElement("div", {}, [
 //     React.createElement("h1", {}, "Adopt Me!"),
@@ -19,12 +19,11 @@ import Pet from "./Pet";
 // };
 // ReactDOM.render(React.createElement(App), document.getElementById("root"));
 const App = () => {
+  console.log("here");
   return (
     <div>
       <h1>Adopt Me!</h1>
-      <Pet name:"Luna" animal:"dog" breed:"Havanese" />
-      <Pet name:"Pepper" animal:"bird" breed:"Cockatiel" />
-      <Pet name:"Doink" animal:"cat" breed:"Mix" />
+      <SearchParams />
     </div>
   );
 };

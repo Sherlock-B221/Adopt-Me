@@ -2,7 +2,7 @@
   "name": "adopt-me",
   "version": "1.0.0",
   "description": "",
-  "main": "src/App.js",
+  "main": "src/App.jsx",
   "scripts": {
     "dev": "parcel src/index.html",
     "format": "prettier --write \"src/**/*.{js,jsx}\"",
@@ -21,10 +21,15 @@
   },
   "homepage": "https://github.com/Sherlock-B221/Adopt-Me#readme",
   "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-react": "^7.22.0",
     "parcel-bundler": "^1.12.4",
     "prettier": "^2.2.1"
   },
   "dependencies": {
+    "@frontendmasters/pet": "^1.0.3",
     "eslint-config-prettier": "^7.2.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
