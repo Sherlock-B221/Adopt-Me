@@ -5,6 +5,7 @@
   "main": "src/App.jsx",
   "scripts": {
     "dev": "parcel src/index.html",
+    "dev:mock": "cross-env PET_MOCK=mock npm run dev",
     "format": "prettier --write \"src/**/*.{js,jsx}\"",
     "lint": "eslint \"src/**/*.{js,jsx}\" --quiet",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -22,6 +23,7 @@
   "homepage": "https://github.com/Sherlock-B221/Adopt-Me#readme",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
+    "cross-env": "^7.0.3",
     "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-jsx-a11y": "^6.4.1",
     "eslint-plugin-react": "^7.22.0",
@@ -33,5 +35,8 @@
     "eslint-config-prettier": "^7.2.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
-  }
+  },
+  "browserslist": [
+    "last 2 Chrome versions"
+  ]
 }
