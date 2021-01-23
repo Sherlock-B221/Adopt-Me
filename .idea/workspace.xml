@@ -22,15 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="079f040a-9d4a-49b3-8982-19137ebc675f" name="Default Changelist" comment="-add Parcel build process, extract out Pet component">
-      <change afterPath="$PROJECT_DIR$/src/Results.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.prettierrc" beforeDir="false" afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pet.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pet.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SearchParams.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/SearchParams.jsx" afterDir="false" />
-    </list>
+    <list default="true" id="079f040a-9d4a-49b3-8982-19137ebc675f" name="Default Changelist" comment="-async calls to Petfinder API&#10;-update Pet component" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +73,7 @@
       <updated>1611047492836</updated>
       <workItem from="1611047494265" duration="8147000" />
       <workItem from="1611089628236" duration="11860000" />
-      <workItem from="1611232957984" duration="10042000" />
+      <workItem from="1611232957984" duration="10738000" />
     </task>
     <task id="LOCAL-00001" summary="-add Parcel build process, extract out Pet component">
       <created>1611091011106</created>
@@ -90,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611091011106</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="-async calls to Petfinder API&#10;-update Pet component">
+      <created>1611260912922</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611260912922</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,7 +109,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="-add Parcel build process, extract out Pet component" />
-    <option name="LAST_COMMIT_MESSAGE" value="-add Parcel build process, extract out Pet component" />
+    <MESSAGE value="-async calls to Petfinder API&#10;-update Pet component" />
+    <option name="LAST_COMMIT_MESSAGE" value="-async calls to Petfinder API&#10;-update Pet component" />
   </component>
   <component name="WindowStateProjectService">
     <state x="624" y="304" width="427" height="255" key="Github.ShareDialog" timestamp="1611053928736">
@@ -126,10 +126,10 @@
     </state>
     <state x="160" y="0" key="SettingsEditor/0.0.1536.864/1920.0.1024.768@0.0.1536.864" timestamp="1611059454027" />
     <state x="1920" y="0" key="SettingsEditor/0.0.1536.864/1920.0.1024.768@1920.0.1024.768" timestamp="1611253684561" />
-    <state x="1924" y="52" key="Vcs.Push.Dialog.v2" timestamp="1611091017023">
+    <state x="1924" y="52" key="Vcs.Push.Dialog.v2" timestamp="1611260919438">
       <screen x="1920" y="0" width="1024" height="768" />
     </state>
-    <state x="1924" y="52" key="Vcs.Push.Dialog.v2/0.0.1536.864/1920.0.1024.768@1920.0.1024.768" timestamp="1611091017023" />
+    <state x="1924" y="52" key="Vcs.Push.Dialog.v2/0.0.1536.864/1920.0.1024.768@1920.0.1024.768" timestamp="1611260919438" />
     <state x="2151" y="-1" width="840" height="920" key="search.everywhere.popup" timestamp="1611258468281">
       <screen x="1920" y="0" width="1024" height="768" />
     </state>
