@@ -22,13 +22,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="079f040a-9d4a-49b3-8982-19137ebc675f" name="Default Changelist" comment="-async calls to Petfinder API&#10;-update Pet component">
-      <change afterPath="$PROJECT_DIR$/src/Details.js" afterDir="false" />
+    <list default="true" id="079f040a-9d4a-49b3-8982-19137ebc675f" name="Default Changelist" comment="Add Reach Router">
+      <change afterPath="$PROJECT_DIR$/src/Carousel.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pet.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pet.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Details.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Details.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +79,7 @@
       <workItem from="1611089628236" duration="11860000" />
       <workItem from="1611232957984" duration="10738000" />
       <workItem from="1611425332109" duration="3734000" />
-      <workItem from="1611549305700" duration="1296000" />
+      <workItem from="1611549305700" duration="8693000" />
     </task>
     <task id="LOCAL-00001" summary="-add Parcel build process, extract out Pet component">
       <created>1611091011106</created>
@@ -98,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611260912922</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add Reach Router">
+      <created>1611550896214</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1611550896214</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,7 +123,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="-add Parcel build process, extract out Pet component" />
     <MESSAGE value="-async calls to Petfinder API&#10;-update Pet component" />
-    <option name="LAST_COMMIT_MESSAGE" value="-async calls to Petfinder API&#10;-update Pet component" />
+    <MESSAGE value="Add Reach Router" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Reach Router" />
   </component>
   <component name="WindowStateProjectService">
     <state x="624" y="304" width="427" height="255" key="Github.ShareDialog" timestamp="1611053928736">
@@ -135,15 +140,15 @@
     </state>
     <state x="160" y="0" key="SettingsEditor/0.0.1536.864/1920.0.1024.768@0.0.1536.864" timestamp="1611059454027" />
     <state x="1920" y="0" key="SettingsEditor/0.0.1536.864/1920.0.1024.768@1920.0.1024.768" timestamp="1611253684561" />
-    <state x="1924" y="52" key="Vcs.Push.Dialog.v2" timestamp="1611260919438">
+    <state x="1924" y="52" key="Vcs.Push.Dialog.v2" timestamp="1611550902485">
       <screen x="1920" y="0" width="1024" height="768" />
     </state>
-    <state x="1924" y="52" key="Vcs.Push.Dialog.v2/0.0.1536.864/1920.0.1024.768@1920.0.1024.768" timestamp="1611260919438" />
-    <state x="2151" y="-1" width="840" height="920" key="search.everywhere.popup" timestamp="1611550065925">
+    <state x="1924" y="52" key="Vcs.Push.Dialog.v2/0.0.1536.864/1920.0.1024.768@1920.0.1024.768" timestamp="1611550902485" />
+    <state x="2151" y="-1" width="840" height="920" key="search.everywhere.popup" timestamp="1611585123951">
       <screen x="1920" y="0" width="1024" height="768" />
     </state>
     <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1536.864/1920.0.1024.768@0.0.1536.864" timestamp="1611256928706" />
-    <state x="2151" y="-1" width="840" height="920" key="search.everywhere.popup/0.0.1536.864/1920.0.1024.768@1920.0.1024.768" timestamp="1611550065925" />
+    <state x="2151" y="-1" width="840" height="920" key="search.everywhere.popup/0.0.1536.864/1920.0.1024.768@1920.0.1024.768" timestamp="1611585123951" />
     <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1611107855297" />
   </component>
 </project>
