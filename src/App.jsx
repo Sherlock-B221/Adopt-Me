@@ -1,6 +1,8 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import SearchParams from "./SearchParams";
+import { Router, Link } from "@reach/router";
+import Details from "./Details";
 // const App = () => {
 //   return React.createElement("div", {}, [
 //     React.createElement("h1", {}, "Adopt Me!"),
@@ -19,11 +21,17 @@ import SearchParams from "./SearchParams";
 // };
 // ReactDOM.render(React.createElement(App), document.getElementById("root"));
 const App = () => {
-  console.log("here");
   return (
     <div>
-      <h1>Adopt Me!</h1>
-      <SearchParams />
+      <header>
+        <Link to="/">Adopt Me!</Link>
+      </header>
+      ;
+      <Router>
+        <SearchParams path="/" />
+        <Details path="/details/:id" />
+      </Router>
+      ;
     </div>
   );
 };
