@@ -4,7 +4,7 @@ import Results from "./Results";
 import useDropdown from "./useDropdown";
 
 const SearchParams = () => {
-  const [location, updateLocation] = useState("Seattle, WA");
+  const [location, updateLocation] = useState("Tracy, California");
   const [breeds, updateBreeds] = useState([]);
   const [animal, AnimalDropdown] = useDropdown("Animal", "dog", ANIMALS);
   const [breed, BreedDropdown, updateBreed] = useDropdown("Breed", "", breeds);
