@@ -30,6 +30,7 @@ const SearchParams = () => {
   }, [animal]);
 
   return (
+    //search params
     <div className="search-params">
       <form
         onSubmit={(e) => {
